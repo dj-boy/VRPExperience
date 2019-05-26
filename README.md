@@ -11,3 +11,5 @@ ifstream fin(".\\input\\R102.txt");
 将R102换成R01即可。
 
 直接放到DevC++编译即可运行。
+
+参考推文：https://mp.weixin.qq.com/s/5AC8OfGKRpRZRIRfCLURXg
